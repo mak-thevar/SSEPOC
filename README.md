@@ -53,7 +53,7 @@ A .NET 8 ASP.NET Core MVC application that demonstrates real-time updates using 
 ## Installation
 - Clone the repository
 ```sh
-git clone <repository-url>
+git clone https://github.com/mak-thevar/SSEPOC
 ```
 - Open the solution file `SseDemoSolution.sln` directly in Visual Studio.
 - Build and run the project. The in-memory database will be seeded automatically.
@@ -74,7 +74,16 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 ## 📸 Screenshots
-*(Placeholder for screenshots of the application in action)*
+| ![Screenshot 1](Screenshots/ssedemo1.gif) |
+|:--:| 
+| *Pushing feeds* |
+
+| ![Screenshot 1](Screenshots/ssedemo2.gif) |
+|:--:| 
+| *Event Stream* |
+
+
+
 
 ## 🎫 License
 Distributed under the MIT License.
@@ -89,4 +98,4 @@ Distributed under the MIT License.
 [issues-shield]: https://img.shields.io/github/issues/mak-thevar/SSEPOC.svg?style=flat-square
 [issues-url]: https://github.com/mak-thevar/SSEPOC/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/your-linkedin-profile/
+[linkedin-url]: https://www.linkedin.com/in/mak11/
