@@ -57,6 +57,9 @@ git clone https://github.com/mak-thevar/SSEPOC
 ```
 - Open the solution file `SseDemoSolution.sln` directly in Visual Studio.
 - Build and run the project. The in-memory database will be seeded automatically.
+```sh
+dotnet run --project SseDemo
+```
 
 ## ✅ Features
 - **Server-Sent Events (SSE):** Demonstrates real-time, unidirectional communication from the server to the client.
