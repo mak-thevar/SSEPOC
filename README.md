@@ -1,4 +1,4 @@
-# SseDemo
+# SSEPOC
 
 A .NET 8 ASP.NET Core MVC application that demonstrates real-time updates using Server-Sent Events (SSE) with a Clean Architecture approach.
 
@@ -80,13 +80,13 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License.
 
 ## 📱 Contact
-- Name: [Your Name]
-- Email: [your-email@example.com]
-- Project Link: [https://github.com/mak-thevar/SseDemo](https://github.com/mak-thevar/SseDemo)
+- Name: Muthukumar
+- Email: mak.thevar@outlook.com
+- Project Link: [https://github.com/mak-thevar/SSEPOC](https://github.com/mak-thevar/SSEPOC)
 
-[contributors-shield]: https://img.shields.io/github/contributors/mak-thevar/SseDemo.svg?style=flat-square
-[contributors-url]: https://github.com/mak-thevar/SseDemo/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/mak-thevar/SseDemo.svg?style=flat-square
-[issues-url]: https://github.com/mak-thevar/SseDemo/issues
+[contributors-shield]: https://img.shields.io/github/contributors/mak-thevar/SSEPOC.svg?style=flat-square
+[contributors-url]: https://github.com/mak-thevar/SSEPOC/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/mak-thevar/SSEPOC.svg?style=flat-square
+[issues-url]: https://github.com/mak-thevar/SSEPOC/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/your-linkedin-profile/
